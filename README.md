@@ -36,7 +36,7 @@
 
 <br>
 
-[[Clik Me](https://github.com/kamilarici/tw8-2-react-comp)]
+[Clik Me](https://github.com/kamilarici/tw8-2-react-comp)
 
 <br>
  <br>
