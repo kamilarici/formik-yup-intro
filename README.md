@@ -36,7 +36,7 @@
 
 <br>
 
-[Clik Me](https://selman-reactjs.vercel.app/)
+[[Clik Me](https://selman-reactjs.vercel.app/)](https://github.com/kamilarici/tw8-2-react-comp)
 
 <br>
  <br>
@@ -50,7 +50,7 @@ In the project directory, you can run:
 
 <h2>How does my project look</h2>
 
-![](./gifs/gif3.gif)
+[![](./gifs/gif3.gif)](https://user-images.githubusercontent.com/129012602/249949876-7175b82d-6c97-4ee2-acff-0737bc0ce221.gif)
 **********************************************
 <h1>Hi I’m kamil 👋. Welcome to my yup project </h1>
 
