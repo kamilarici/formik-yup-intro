@@ -1,12 +1,14 @@
 <h1>React-Redux Library App</h1>
 <h1>Hi I’m kamil 👋. Welcome to my yup project </h1>
 
-<br>
-<h4>CONTACT</h4>
-<br>
+
+<!-- <h4>CONTACT</h4>
+<br> -->
+
 ## Author
-- Linkedin - [@kamilarici](https://www.linkedin.com/in/kamil-arici/)
-- Githup - [@kamilarici](https://github.com/kamilarici)
+- Linkedin: [@kamilarici](https://www.linkedin.com/in/kamil-arici/)
+- GitHub: [@kamilarici](https://github.com/kamilarici)
+
 <br>
 <br>
 
