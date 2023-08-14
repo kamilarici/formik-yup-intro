@@ -64,8 +64,37 @@ In the project directory, you can run:
 
 
 
-![](./gifs/gif1.gif)
-<br>
-![](./gifs/gif2.gif)
-<br>
-![](./gifs/gif3.gif)
+# Proje Adı
+
+Kısa bir proje açıklaması veya slogan
+
+## Başlangıç
+
+1. Gereksinimleri yüklemek için: `npm install`, `pip install -r requirements.txt`, vb.
+2. Konfigürasyon dosyasını ayarlayın: `config.yaml` gibi.
+3. Veritabanını başlatın: `python manage.py migrate`, vb.
+4. Uygulamayı başlatın: `npm start`, `python manage.py runserver`, vb.
+
+## Kullanım
+
+1. Uygulamayı başlatın.
+2. Tarayıcınızda `http://localhost:8000` adresine gidin.
+3. İlgili işlemi yapın...
+4. Sonuçları görüntüleyin.
+
+## Katkıda Bulunma
+
+1. Projeyi "Fork"layın.
+2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`
+3. Değişikliklerinizi commit edin: `git commit -am 'Yeni özellik: XYZ'`
+4. Dalınıza itin: `git push origin yeni-ozellik`
+5. Pull Request açın.
+
+## İletişim
+
+Sorularınız, önerileriniz veya geri bildirimleriniz için iletişime geçin.
+
+## Lisans
+
+Bu proje [Lisans Türü] ile lisanslanmıştır. Daha fazla bilgi için `LICENCE` dosyasını inceleyebilirsiniz.
+
