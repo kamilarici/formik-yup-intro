@@ -41,15 +41,15 @@
 
 [Clik Me](https://github.com/kamilarici/tw8-2-react-comp)
 
-<br>
- <br>
+
  
 <h2>How to install</h2>
+
 
 <br>
 In the project directory, you can run:
 
-## `npm install`
+#### `npm install`
 
 <h2>How does my project look</h2>
 
