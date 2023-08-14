@@ -36,7 +36,7 @@
 
 <br>
 
-[[Clik Me](https://selman-reactjs.vercel.app/)](https://github.com/kamilarici/tw8-2-react-comp)
+[[Clik Me](https://github.com/kamilarici/tw8-2-react-comp)]
 
 <br>
  <br>
@@ -50,7 +50,7 @@ In the project directory, you can run:
 
 <h2>How does my project look</h2>
 
-[![](./gifs/gif3.gif)](https://user-images.githubusercontent.com/129012602/249949876-7175b82d-6c97-4ee2-acff-0737bc0ce221.gif)
+![upayment](https://user-images.githubusercontent.com/129012602/249949876-7175b82d-6c97-4ee2-acff-0737bc0ce221.gif)
 **********************************************
 <h1>Hi I’m kamil 👋. Welcome to my yup project </h1>
 
@@ -96,7 +96,7 @@ In the project directory, you can run:
 
 
 
-![upayment](https://user-images.githubusercontent.com/97898216/198263902-60495ad4-02bb-492b-b384-9669bedbb716.gif)
+
 ![](./gifs/gif1.gif)
 <br>
 ![](./gifs/gif2.gif)
