@@ -56,7 +56,7 @@
 <br>
 In the project directory, you can run:
 
-#### `npm install`
+#### `npm install` yada pnpm run dev
 
 <h2>How does my project look</h2>
 
