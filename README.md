@@ -31,7 +31,7 @@
     PURPOSE** amaç <br>
     Book will be saved under categories. There will be CRUD structure for the both books and categories.</p>
   </li>
-  <li>Work Order <br>
+  <li>Work Order**aşamaları <br>
     <ul style="line-height: 25px;">
         <li>Installing dependencies</li>
         <li>Creating data and json-server structure</li>
