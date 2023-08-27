@@ -1,5 +1,5 @@
 <h1>React-Redux Library App</h1>
-<h1>Hi I’m kamil 👋. Welcome to my yup project </h1>
+
 
 
 <!-- <h4>CONTACT</h4>
