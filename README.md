@@ -28,7 +28,7 @@
 <h3>Pre-project notes</h3>
 <ol type="A">
   <li style="line-height: 25px;">
-    PURPOSE <br>
+    PURPOSE** amaç <br>
     Book will be saved under categories. There will be CRUD structure for the both books and categories.</p>
   </li>
   <li>Work Order <br>
