@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<p>in this project I got categories and products from api and listed them on home page. When clicking on the products, the detail page is navgate with the data. The create post button goes to the page where we created and submitted our new post. You can also filter products by category.</p>
+<p> ***kısa açıklama ****in this project I got categories and products from api and listed them on home page. When clicking on the products, the detail page is navgate with the data. The create post button goes to the page where we created and submitted our new post. You can also filter products by category.</p>
 
 <br>
 
